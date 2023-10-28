@@ -2,7 +2,6 @@
 ## Muhammad Zain : 20L-2168
 ## Noor Fatima : 20L-0990
 
-
 from numpy import dtype
 import pandas as pd
 from datetime import datetime
